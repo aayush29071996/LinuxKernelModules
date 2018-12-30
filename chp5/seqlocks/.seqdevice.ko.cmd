@@ -1,0 +1,1 @@
+cmd_/home/aayush/Documents/RA/modules/chp5/seqlocks/seqdevice.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/aayush/Documents/RA/modules/chp5/seqlocks/seqdevice.ko /home/aayush/Documents/RA/modules/chp5/seqlocks/seqdevice.o /home/aayush/Documents/RA/modules/chp5/seqlocks/seqdevice.mod.o

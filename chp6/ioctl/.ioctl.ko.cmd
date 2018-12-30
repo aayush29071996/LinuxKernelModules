@@ -1,0 +1,1 @@
+cmd_/home/aayush/Documents/RA/modules/chp6/ioctl/ioctl.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/aayush/Documents/RA/modules/chp6/ioctl/ioctl.ko /home/aayush/Documents/RA/modules/chp6/ioctl/ioctl.o /home/aayush/Documents/RA/modules/chp6/ioctl/ioctl.mod.o
